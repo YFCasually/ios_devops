@@ -6,7 +6,7 @@
 
 ## ansible 系列
 
-[01 环境搭建](./ansible_daydayup/ansible_01_环境搭建.md)
+[01 环境搭建](./ansible_daydayup/01/ansible_01_环境搭建.md)
 
 
 
