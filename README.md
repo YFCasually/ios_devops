@@ -1,20 +1,14 @@
-## welcome ios devops 
+## whoami
 
-一个注重于提升团队开发效率的移动端 devops 菜鸟 ~~
+在「后」移动端时代，可能在「工程效率」这块可能会收获更多，所以从今天开始投身「一切能够提升工程效率」的技术中 ...
+
+个人认为只要是能够「提供效率」的技术手段，都属于所谓的「devops」这个名词内，所以这个小地方作为收集与记录在工作中和学习中的一些收获。
 
 
 
 ## xzh (a iOS command line tool)
 
-安装说明:  https://github.com/xiongzenghuidegithub/xzh
-
-为啥选择用 ruby 开发 commnad line tool 了？谁叫 cocoapods、fastlane … 都是 ruby 写的了 ~
-
-提供常用的 iOS 命令行终端工具集合:
-
-- [ ] x
-- [ ] x
-- [ ] x
+[](https://github.com/xiongzenghuidegithub/xzh/blob/master/README.md)
 
 
 
@@ -24,6 +18,6 @@
 
 
 
-## Docker 学习记录
+## docker 学习记录
 
 
