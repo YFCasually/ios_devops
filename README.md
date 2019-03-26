@@ -8,7 +8,7 @@
 
 ## xzh (a iOS command line tool)
 
-[](https://github.com/xiongzenghuidegithub/xzh/blob/master/README.md)
+[xzh 具体使用](https://github.com/xiongzenghuidegithub/xzh/blob/master/README.md)
 
 
 
