@@ -14,7 +14,11 @@
 
 ## ansible 学习记录
 
-[01 环境搭建](./ansible_daydayup/01/ansible_01_环境搭建.md)
+[01 - ansible start](./ansible_daydayup/01/ansible_start.md)
+
+[02 - inventory](./ansible_daydayup/02/ansible_inventory.md)
+
+
 
 
 
